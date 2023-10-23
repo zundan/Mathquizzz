@@ -1,0 +1,10 @@
+D:\PERKULIAHAN UIN SUKA\Semester 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+D:\PERKULIAHAN UIN SUKA\Semester 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+D:\PERKULIAHAN UIN SUKA\Semester 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+D:\PERKULIAHAN UIN SUKA\Semester 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+D:\PERKULIAHAN UIN SUKA\Semester 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+D:\PERKULIAHAN UIN SUKA\Semester 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+D:\PERKULIAHAN UIN SUKA\Semester 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+D:\PERKULIAHAN UIN SUKA\Semester 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+D:\PERKULIAHAN UIN SUKA\Semester 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+D:\PERKULIAHAN UIN SUKA\Semester 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
